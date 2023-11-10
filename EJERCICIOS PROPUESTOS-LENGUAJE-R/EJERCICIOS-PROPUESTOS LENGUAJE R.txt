@@ -1,0 +1,104 @@
+
+EJERCICIOS PROPUESTOS LENGUAJE R
+
+====================================
+PROBLEMA Nº 01:
+=======================================
+SE REALIZO UNA ENCUESTA A UNA POBLACION PARA IDENTIFICAR
+LA ESTADISTICA DE PERSONAS QUE SON FUMADORES. DISTRIBUIR EL PORCENTAJE
+DE FUMADORES Y NO FUMADORES DE AMBOS SEXOS.
+
+==================================================
+PROBLEMA Nº 02:
+===========================================
+ CON LOS SIGUIENTES DATOS RECOGIDOS
+Estatura = 160, 170, 155, 180, 165, 175, 162, 185
+ Sexo = "Mujer", "Hombre", "Mujer", "Hombre", "Mujer", "Hombre", "Mujer", "Hombre"
+
+* CALCULAR LA ESTATURA MINIMA, MAXIMA EN GENERAL.
+* CALCULAR LA ESTAURA MINIMA Y MAXIMA PARA VARONES 
+* CALCULAR LA ESTAURA MINIMA Y MAXIMA PARA VARONES 
+
+
+==================================================
+PROBLEMA Nº 03:
+===========================================
+MOSTRAR EL PORCENTAJE DE PERSONAS CON ESTATURA MENOR A 165
+* CREAR UN DATAFRAME COMO LOS RESULTADOS
+* CREAR UN GRAFICO DE TORTA
+
+
+==================================================
+PROBLEMA Nº 04:
+===========================================
+CREAR UN DATA FRAME CON LOS VALORES CENTRALES
+DE ESTATURA MEDIA Y PESO.
+* CREAR UN GRAFICO DE BARRAS
+
+==================================================
+PROBLEMA Nº 05:
+===========================================
+CREAR UN DATAFRAME DE DATOS, PARA CALCULAR LA ESTADISTICA DE FUMADORES 
+Y NO FUMADORES. CREAR UN VECTOR CON LOS DATOS, UNA GRAFICO DE BARRAS
+Y POR ULTIMO AGREGAR UNA ETIQUETA A LAS BARRAS
+
+==================================================
+PROBLEMA Nº 06:
+===========================================
+CREAR UN DATAFRAME PARA ENCAPSULAR LOS DATOS DE
+NOMBRES, EDADES Y A QUE ESTADO PERTENECE LA PERSONA.
+LUEGO CREAR UN GRAFICO PARA MOSTRAR EL PORCENTAJE
+DE PERSONAS QUE PERTENECEN A UN ESTADO.
+
+
+==================================================
+PROBLEMA Nº 07:
+===========================================
+CREAR UN DATAFRAME CON DATOS HIPOTETICOS.
+DE PERSONAS CON CARACTERISTICAS DE:
+EXTRAVERSION, RESPONSABILIDAD, ESTABILIDAD EMOCIONAL, SINCERIDAD
+
+
+
+==================================================
+PROBLEMA Nº 08:
+===========================================
+UN GRUPO DE 15 PERSONAS DE PRESENTAN A UNA ENTREVISTA,
+PARA SER SELECCIONADOS SE MEDIRA EL GRADO DE EXPERIENCIA (1-100)
+DE TODOS LOS POSTULANTES.
+*CALCULAR CUANTAS PERSONAS CUMPLEN CON EL CRITERIO
+* OBTENER EL RESULTADO DE LA PUNTUACION MAXIMA, PROMEDIA Y MINIMA
+
+
+
+==================================================
+PROBLEMA Nº 09:
+===========================================
+
+SE TIENE UNA LISTA DE PUNTUACIONES, CALCULAR
+LA MEDIDA DE LA TENDENCIA CENTRAL, MEDIDAS DE
+DISPERSION.
+MOSTRAR LA MEDIA, MODA, DESVIACION ESTANDAR, RANGO Y CUARTILES
+
+
+==================================================
+PROBLEMA Nº 10:
+===========================================
+SE TIENE LAS INICIALES DE UN CONJUNTO DE ESTADOS,
+UTILIZAR VECTORES PARA ORDENAR 
+
+==================================================
+PROBLEMA Nº 11:
+===========================================
+CALCULAR LA FRECUENCIA ABSOLUTA  Y RELATIVA
+
+==================================================
+PROBLEMA Nº 12:
+============================================
+CON LOS DATOS DE EDADES OBTENIDAS DE UN GRUPO DE PERSONAS,
+CALCULAR LA FRECUENCIA ABSOLUTA, RELATIVA.
+*MOSTRAR EN UN GRAFICO CIRCULAR
+*MOSTRAR EN UN GRAFICO DE BARRAS
+
+
+
